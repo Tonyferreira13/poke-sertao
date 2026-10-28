@@ -1,0 +1,63 @@
+.godot/
+tools/godot/
+*.tmp
+
+# Engine binaries and local editor/export data
+/Godot_v4.7.2-stable_win64.exe/
+/export_templates/
+/feature_profiles/
+/script_templates/
+/text_editor_themes/
+/export_presets.cfg
+
+# Python cache and generated previews
+__pycache__/
+*.py[cod]
+/tools/*_preview.png
+/tools/*_preview.png.import
+
+# Large source files and reference images kept locally, not redistributed
+/Tiles.cdr
+/Backup_of_Tiles.cdr
+/assets/Referencia*.png
+/assets/Referencia*.png.import
+/assets/Atlas de Tiles Pixel Art do sertao.png
+/assets/Atlas de Tiles Pixel Art do sertao.png.import
+/assets/Tileset de Caatinga em Pixel Art.png
+/assets/Tileset de Caatinga em Pixel Art.png.import
+
+# Superseded concept iterations and early experiments
+/assets/5player.png
+/assets/5player.png.import
+/assets/Biu*.png
+/assets/Biu*.png.import
+/assets/Novo.jpeg
+/assets/Novo.jpeg.import
+/assets/Sprites_Player.jpeg
+/assets/Sprites_Player.jpeg.import
+/assets/tileset.png
+/assets/tileset.png.import
+/assets/tileset_caatinga.png
+/assets/tileset_caatinga.png.import
+/assets/tileset_caatinga.tres
+/assets/tileset_caatinga_novo.png
+/assets/tileset_caatinga_novo.png.import
+/assets/tilesets/stage01_caatinga_concept_v1.png*
+/assets/tilesets/stage01_caatinga_concept_v2.png*
+/assets/tilesets/stage01_caatinga_concept_v3.png*
+/assets/tilesets/stage01_caatinga_plants_concept_v1.png*
+/assets/tilesets/stage01_caatinga_plants_concept_v2.png*
+/data/world.json
+
+# Older one-off asset/import utilities
+/tools/generate_assets.py
+/tools/import_tileset.py
+/tools/prepare_tileset.py
+/tools/process_player_sheet.py
+/tools/slice_region_tileset.py
+/tools/setup_tileset.gd
+/tools/setup_tileset.gd.uid
+/tools/setup_caatinga_tileset.gd
+/tools/setup_caatinga_tileset.gd.uid
+/tools/paint_map_from_json.gd
+/tools/paint_map_from_json.gd.uid

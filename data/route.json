@@ -1,0 +1,28 @@
+{
+  "npcs": [
+    {
+      "cell": [
+        14,
+        7
+      ],
+      "facing": "down",
+      "name": "Dona Zefa",
+      "lines": [
+        "Bom dia, menino! O caminho da feira e logo ali.",
+        "Cuidado com o mato alto: dizem que aparece cada criacao..."
+      ]
+    },
+    {
+      "cell": [
+        22,
+        4
+      ],
+      "facing": "left",
+      "name": "Jovem",
+      "lines": [
+        "Voce tambem veio ver o lago?",
+        "Dizem que algo brilha no fundo... mas eu nao sei nadar."
+      ]
+    }
+  ]
+}
